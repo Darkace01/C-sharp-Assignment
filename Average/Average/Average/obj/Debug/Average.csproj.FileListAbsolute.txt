@@ -1,0 +1,7 @@
+c:\users\kazeem quadri\source\repos\Average\Average\bin\Debug\Average.exe.config
+c:\users\kazeem quadri\source\repos\Average\Average\bin\Debug\Average.exe
+c:\users\kazeem quadri\source\repos\Average\Average\bin\Debug\Average.pdb
+c:\users\kazeem quadri\source\repos\Average\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+c:\users\kazeem quadri\source\repos\Average\Average\obj\Debug\Average.exe
+c:\users\kazeem quadri\source\repos\Average\Average\obj\Debug\Average.pdb
+c:\users\kazeem quadri\source\repos\Average\Average\obj\Debug\Average.csprojAssemblyReference.cache
